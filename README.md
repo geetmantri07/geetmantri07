@@ -12,12 +12,12 @@ I build practical machine-learning and data products—from data pipelines and m
 
 | Project | Focus | Highlights |
 | --- | --- | --- |
+| [Azure Multimodel Compliance Engine](https://github.com/geetmantri07/azure-multimodel-compliance-engine) | AI / Azure | An Azure-focused multimodal AI project for compliance-oriented document workflows. |
+| [Research Paper Recommendation System](https://github.com/geetmantri07/Research_Paper_Recommendation_System) | Recommendation Systems / NLP | Recommends relevant research papers from content and user-interest signals. |
+| [Sentiment Analysis](https://github.com/geetmantri07/Sentiment_Analysis) | NLP / Classification | Classifies text sentiment with an end-to-end machine-learning workflow. |
+| [Text Summarizer](https://github.com/geetmantri07/Text-Summarizer) | NLP / Generative AI | Condenses long-form text into concise summaries using NLP techniques. |
 | [Transformer Implementation: Attention Is All You Need](https://github.com/geetmantri07/Transformer-Implementation-Attention-is-all-you-need) | Deep Learning / NLP | A hands-on implementation exploring transformer architecture and attention mechanisms. |
-| [Medical Chatbot using Llama 2](https://github.com/geetmantri07/Medical-Chatbot-using-Llama-2) | Generative AI | A domain-focused LLM chatbot built around Llama 2. |
-| [AWS Glue, S3 & Redshift Data Warehouse ETL](https://github.com/geetmantri07/aws-glue-s3-redshift-data-warehouse-etl) | Data Engineering | Cloud ETL workflow using AWS Glue, S3, and Redshift. |
-| [Ride-sharing Data Engineering Pipeline](https://github.com/geetmantri07/ride-sharing-data-engineering-pipeline) | Data Engineering | End-to-end data-pipeline work using ride-sharing data. |
-| [IMDB Sentiment Analysis](https://github.com/geetmantri07/IMDB-Sentiment-Analysis) | NLP / Deep Learning | Sentiment classification using PyTorch, NLTK, and deep-learning techniques. |
-| [Chest X-Ray Classification](https://github.com/geetmantri07/Chest-X-Ray-Classification) | Computer Vision | Applied image-classification project in a healthcare context. |
+| [Water Potability Prediction](https://github.com/geetmantri07/water-potability-prediction) | Machine Learning | Predicts water potability from water-quality features. |
 
 ## Currently exploring
 
